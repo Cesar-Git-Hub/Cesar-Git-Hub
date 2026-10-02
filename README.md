@@ -1,5 +1,3 @@
----
-
 ![Banner](cesargithubbanner.png)
 
 # 👋 Hey, I'm Cesar De la Rosa  
