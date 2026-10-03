@@ -42,10 +42,26 @@
 
 ---
 
+## 🎯 Currently working in personal projects 
+- 🛠️ [Multi Tool App]-Pending   
+  Calendar + Calculator with responsive design (React + Node.js).  
+
+- 📊 Fraud Detection Models (Private Repo)  
+  Built predictive models in R & Python for fraud analysis.
+  
+---
+
 ## 📊 GitHub Stats
 ![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesar-Git-Hub&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cesar-Git-Hub&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Git-Hub&layout=compact&theme=radical)  
+
+---
+
+## 🎯 Currently Learning
+- Advanced React patterns (Hooks, Context, Performance)  
+- Django deployment & scaling  
+- Machine Learning with Python (Scikit‑Learn, TensorFlow)  
 
 ---
 
