@@ -9,10 +9,18 @@
 ---
 
 ## 🚀 About Me
-- 🌐 Web Developer | Senior Fraud Analyst | Tech Enthusiast  
-- 🎯 Focused on Creating WebApp and Desktop Applications, Python, and JavaScript (React and Node.js)  
+- 🌐 Full Stack Web Developer | Senior Fraud Analyst | Tech Enthusiast  
+- 🎯 Focused on building modern Web and Desktop Applications using Python, React and Node.js  
 - 💼 Employee at Scotia GBS Dominican Republic (5+ year milestone)  
-- 📚 Lifelong learner: Django, Node.js, R, and Data Visualisation with Python 
+- 📚 Lifelong learner: Python, React and Node.js, R, and Data Visualisation with Python 
+
+---
+
+### 🖥️ Backend
+- Django, Node.js, REST APIs, SQL  
+
+### 🎨 Frontend
+- React, JavaScript, Responsive Design, Accessibility
 
 ---
 
