@@ -12,7 +12,7 @@
 - 🌐 Full Stack Web Developer | Senior Fraud Analyst | Tech Enthusiast  
 - 🎯 Focused on building modern Web and Desktop Applications using Python, React and Node.js  
 - 💼 Employee at Scotia GBS Dominican Republic (5+ year milestone)  
-- 📚 Lifelong learner: Python, React and Node.js, R, and Data Visualisation with Python 
+- 📚 Lifelong learner: Python, Flutter, React and Node.js, R, and Data Visualisation with Python 
 
 ---
 
@@ -61,7 +61,8 @@
 ## 🎯 Currently Learning
 - Advanced React patterns (Hooks, Context, Performance)  
 - Django deployment & scaling  
-- Machine Learning with Python (Scikit‑Learn, TensorFlow)  
+- Machine Learning with Python (Scikit‑Learn, TensorFlow)
+- Flutter and Dart
 
 ---
 
