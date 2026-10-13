@@ -2,6 +2,8 @@
 
 # 👋 Hey, I'm Cesar De la Rosa  
 
+![Profile Banner](https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%92%BB-purple?style=for-the-badge)  
+![Profile Banner](https://img.shields.io/badge/Desktop%20GUI%20App-%F0%9F%92%BB-orange?style=for-the-badge)
 ![Profile Banner](https://img.shields.io/badge/Web%20Developer-%F0%9F%92%BB-blue?style=for-the-badge)  
 ![Profile Banner](https://img.shields.io/badge/Machine%20Learning-%F0%9F%94%A5-green?style=for-the-badge)  
 ![Profile Banner](https://img.shields.io/badge/Python-%F0%9F%90%8D-yellow?style=for-the-badge)  
