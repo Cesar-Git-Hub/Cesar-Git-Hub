@@ -42,7 +42,8 @@
 
 ## 📂 Featured Projects
 - 🌐 [Portafolio Web](https://cesar-git-hub.github.io/Portfolio-Cesar-De-la-Rosa/) 
-  Responsive portfolio with light/dark mode.  
+  Responsive portfolio with light/dark mode.
+- 🌐 [Chat App](https://chatapp.lat) 
 
 ---
 
