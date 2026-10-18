@@ -44,7 +44,7 @@
 - 🌐 [Portafolio Web](https://cesar-git-hub.github.io/Portfolio-Cesar-De-la-Rosa/) 
   Responsive portfolio with light/dark mode.
 - 🌐 [Chat App](https://chatapp.lat) 
-
+  Chat App is chat application created with React and Node.js working with front-end and back-end.
 ---
 
 ## 🎯 Currently working in personal projects 
