@@ -44,19 +44,19 @@
 - 🌐 [Portafolio Web](https://cesar-git-hub.github.io/Portfolio-Cesar-De-la-Rosa/)  
   Responsive personal portfolio with **light/dark mode** toggle.  
   🔧 Built with: HTML, CSS, JavaScript  
-  📸 Screenshot: *(Add image here)*  
+  📸 Screenshot: ![Portfolio Screenshot](./portafolio.png) 
   📂 [GitHub Repo](https://github.com/cesar-git-hub/Portfolio-Cesar-De-la-Rosa)  
 
 - 💬 [ChatApp](https://chatapp.lat)  
   Real-time chat application with **React (front-end)** and **Node.js (back-end)**.  
   🔧 Built with: React, Node.js, Express, Socket.io  
-  📸 Screenshot: *(Add image here)*  
+  📸 Screenshot: ![ChatApp Screenshot](./chatapp.png)
   📂 [GitHub Repo](https://github.com/cesar-git-hub/ChatApp)  
 
 - 🗂️ [ClaimApp](https://claimapp.online)  
   Data cleaning and organization tool developed with **Django**.  
   🔧 Built with: Django, Python, SQLite/PostgreSQL  
-  📸 Screenshot: *(Add image here)*  
+  📸 Screenshot: ![ClaimApp Screenshot](./ClaimApp.png) 
   📂 [GitHub Repo](https://github.com/cesar-git-hub/Claim_App_Web)  
 
 ---
