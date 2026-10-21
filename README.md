@@ -39,12 +39,26 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
-
 ## 📂 Featured Projects
-- 🌐 [Portafolio Web](https://cesar-git-hub.github.io/Portfolio-Cesar-De-la-Rosa/) 
-  Responsive portfolio with light/dark mode.
-- 🌐 [Chat App](https://chatapp.lat) 
-  Chat App is chat application created with React and Node.js working with front-end and back-end.
+
+- 🌐 [Portafolio Web](https://cesar-git-hub.github.io/Portfolio-Cesar-De-la-Rosa/)  
+  Responsive personal portfolio with **light/dark mode** toggle.  
+  🔧 Built with: HTML, CSS, JavaScript  
+  📸 Screenshot: *(Add image here)*  
+  📂 [GitHub Repo](https://github.com/cesar-git-hub/Portfolio-Cesar-De-la-Rosa)  
+
+- 💬 [ChatApp](https://chatapp.lat)  
+  Real-time chat application with **React (front-end)** and **Node.js (back-end)**.  
+  🔧 Built with: React, Node.js, Express, Socket.io  
+  📸 Screenshot: *(Add image here)*  
+  📂 [GitHub Repo](https://github.com/cesar-git-hub/ChatApp)  
+
+- 🗂️ [ClaimApp](https://claimapp.online)  
+  Data cleaning and organization tool developed with **Django**.  
+  🔧 Built with: Django, Python, SQLite/PostgreSQL  
+  📸 Screenshot: *(Add image here)*  
+  📂 [GitHub Repo](https://github.com/cesar-git-hub/Claim_App_Web)  
+
 ---
 
 ## 🎯 Currently working in personal projects 
